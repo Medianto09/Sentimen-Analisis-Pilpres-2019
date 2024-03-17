@@ -1,6 +1,11 @@
 # Sentimen-Analisis-Pilpres-2019
 This project of Indonesia Presidential Election 2019 Tweeter Sentiment Analysis 
 
+# File 
+> File Sentiment_Analysis_Pilpres_2019.ipynb (google collab)
+> Dataframe : tweet csv
+
+
 # Background:
 > Twitter became a large forum for public discussion during the 2019 presidential election because there were around 5.7 million tweets per day related to the 2019 presidential election. This relatively large amount of data can be used for various analyses, one of which is sentiment analysis.
 
